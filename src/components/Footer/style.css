@@ -1,0 +1,31 @@
+.foot{
+    background-color: black;
+    color:aliceblue;
+    width:100%;
+    font-family: sans-serif;
+    display:flex;
+    letter-spacing: 1px;
+    
+}
+.content1{
+    width:50%;
+    padding:0% 10% 10% 5%;
+    margin-top:1%;
+}
+.content2{
+    padding-right: 15%;
+    margin-top:1%;
+}
+.content2 a{
+   padding-bottom:2rem;
+    display:inline;
+}
+.content2 p{
+    margin-bottom: 15%;
+}
+.content3{
+    margin-top:1%;
+}
+.content3 p{
+    margin-bottom: 15%;
+}
